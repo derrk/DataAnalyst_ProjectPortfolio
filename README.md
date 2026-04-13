@@ -2,7 +2,7 @@
 
 
 
-\# Operations Automation \& Data Center Analytics Portfolio
+# Operations Automation \& Data Center Analytics Portfolio
 
 
 
@@ -14,45 +14,45 @@ While many of these projects originated from Bitcoin mining operations, the tool
 
 
 
-\---
+---
 
 
 
-\## Core Objectives
+## Core Objectives
 
 
 
-\- Automate repetitive operational reporting and analysis
+- Automate repetitive operational reporting and analysis
 
-\- Improve visibility into asset health, availability, and lifecycle status
+- Improve visibility into asset health, availability, and lifecycle status
 
-\- Enable data-driven decision-making around capacity, consolidation, and risk
+- Enable data-driven decision-making around capacity, consolidation, and risk
 
-\- Provide reproducible, auditable analytics suitable for production environments
-
-
-
-\---
+- Provide reproducible, auditable analytics suitable for production environments
 
 
 
-\## Portfolio Overview
+---
+
+
+
+## Portfolio Overview
 
 
 
 Each project within this repository is self-contained and includes:
 
-\- A clear problem statement
+- A clear problem statement
 
-\- Defined inputs and outputs
+- Defined inputs and outputs
 
-\- Validation steps to ensure data integrity
+- Validation steps to ensure data integrity
 
-\- Example output using sanitized or sample data
+- Example output using sanitized or sample data
 
 
 
-\### Projects
+### Projects
 
 
 
@@ -72,45 +72,45 @@ Each project within this repository is self-contained and includes:
 
 
 
-\---
+---
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\- Python-based automation and ETL workflows
+- Python-based automation and ETL workflows
 
-\- Data validation and consistency checks
+- Data validation and consistency checks
 
-\- Operational metrics and availability analysis
+- Operational metrics and availability analysis
 
-\- Asset lifecycle and warranty risk modeling
+- Asset lifecycle and warranty risk modeling
 
-\- Scalable project structure and shared utilities
+- Scalable project structure and shared utilities
 
-\- Clear documentation and reproducible execution
-
-
-
-\---
+- Clear documentation and reproducible execution
 
 
 
-\## Repository Structure
+---
 
 
+
+## Repository Structure
 
 
 
 
 
-\---
+
+
+---
 
 
 
-\## How to Use This Repository
+## How to Use This Repository
 
 
 
@@ -118,11 +118,11 @@ Each project directory contains its own README with setup instructions and examp
 
 
 
-\---
+---
 
 
 
-\## Notes on Data and Security
+## Notes on Data and Security
 
 
 
