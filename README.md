@@ -130,31 +130,31 @@ All data included in this repository is either synthetic or sanitized. No propri
 
 
 
-\---
+---
 
 
 
-\## Roadmap
+## Roadmap
 
 
 
 Future additions may include:
 
-\- Capacity and utilization forecasting models
+- Capacity and utilization forecasting models
 
-\- Incident and MTTR trend analysis
+- Incident and MTTR trend analysis
 
-\- Deeper CMDB and workflow automation examples
+- Deeper CMDB and workflow automation examples
 
-\- Expanded validation and testing coverage
-
-
-
-\---
+- Expanded validation and testing coverage
 
 
 
-\## Author
+---
+
+
+
+## Author
 
 
 
